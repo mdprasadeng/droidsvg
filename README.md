@@ -1,6 +1,6 @@
 Droid SVG
 ========
-A simple tool to convert SVG files to android Drawables
+A simple tool to convert SVG files to android Drawables i.e. ldpi, mdpi, hdpi, xhdpi etc
 
 TO USE
 
